@@ -1,7 +1,8 @@
 .container {
-  margin-top: 30px;
+  /* margin-top: 30px; */
 }
 
 p {
-  color: blue;
+  color: grey;
+  padding: .5em 4em;
 }
